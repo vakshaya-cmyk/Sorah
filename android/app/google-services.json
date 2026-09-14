@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253273028114",
+    "project_id": "sorah-care-app",
+    "storage_bucket": "sorah-care-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253273028114:android:d89e83b32563e3a6994acb",
+        "android_client_info": {
+          "package_name": "com.example.sorah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZG2dv36dWigHwktNTnKNidwQEHcPCozY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
