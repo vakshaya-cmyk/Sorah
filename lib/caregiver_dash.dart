@@ -328,7 +328,7 @@ class _CaregiverDashState extends State<CaregiverDash> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Text(pinSubtitle, style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600, color: darkSage)),
+                      Expanded(child: Text(pinSubtitle, style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600, color: darkSage))),
                       Container(
                         padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
                         decoration: BoxDecoration(
